@@ -1,3 +1,6 @@
 [submodule "natours"]
 	path = natours
 	url = https://github.com/jpcodigo/natours
+[submodule "omnifood"]
+	path = omnifood
+	url = https://github.com/jpcodigo/omnifood
