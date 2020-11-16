@@ -7,3 +7,6 @@
 [submodule "budgetApp"]
 	path = budgetApp
 	url = https://github.com/jpcodigo/budgetApp
+[submodule "forkify"]
+	path = forkify
+	url = https://github.com/jpcodigo/forkify
