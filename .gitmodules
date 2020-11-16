@@ -4,3 +4,6 @@
 [submodule "omnifood"]
 	path = omnifood
 	url = https://github.com/jpcodigo/omnifood
+[submodule "budgetApp"]
+	path = budgetApp
+	url = https://github.com/jpcodigo/budgetApp
